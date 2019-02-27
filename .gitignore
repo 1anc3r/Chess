@@ -1,0 +1,9 @@
+Library/
+obj/
+Logs/
+Temp/
+.vs/
+.vscode/
+.gradle/
+Chess.sln
+Assembly-CSharp.csproj
