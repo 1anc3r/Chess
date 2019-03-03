@@ -1,3 +1,10 @@
-# Chess（国际象棋）by Unity 3D
+# Chess（国际象棋）MiniGame by Unity3D
 
-<img src="./Screenshots/Screenshot_0.gif" width = "400" height = "300" alt=""/>
+## 技术点:
+
+1.射线检测
+2.国际象棋游戏逻辑
+
+## 游戏截图:
+
+<img src="https://github.com/1anc3r/Chess/tree/master/Screenshots/动图2.gif?raw=true" width = "300" height = "470" alt=""/>
